@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import pickle
 from PIL import Image
-from lightgbm import LGBMClassifier
 
 st.write("""
 # Patient Survival Prediction
