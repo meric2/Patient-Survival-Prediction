@@ -1,6 +1,6 @@
 # Patient Survival Prediction
 This project aims to predict survival on various body and blood values of the patients. Various Machine Learning models are trained. On the website, the model with the best evaluation metrics is utilized.  
-The dataset that will be used in this project can be found from [Kaggle](https://www.kaggle.com/datasets/mitishaagarwal/patient).  
+The dataset that will be used in this project is listed on Kaggle as [Patient Survival Prediction](https://www.kaggle.com/datasets/mitishaagarwal/patient).  
 
 ## Project Overview
 
@@ -44,7 +44,7 @@ The key aspects of this project include:
   ```
   
 - Open `survivalprediction.ipynb` notebook and run all cells to train models.  
-- Open [web app](https://meric2-patient-survival-prediction-yap470-app-rmgogf.streamlit.app/) to use saved pre-trained model.  
+- Open [web app](https://meric2-patient-survival-prediction-yap470-app-rmgogf.streamlit.app/) to use the saved pre-trained model.  
 
 
 ## Usage
