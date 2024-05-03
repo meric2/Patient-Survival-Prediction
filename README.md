@@ -49,8 +49,8 @@ The key aspects of this project include:
 
 ## Usage
 
-This project can serve as a reference for binary classificatio while building machine learning pipelines.  
-On the website the most important features are given to the user to enter. When entered, the website shows the survival prediction.  
+This project can serve as a reference for binary classification while building machine learning pipelines.  
+On the website the most important features are given to the user to enter manually or load as a csv file. An instance of the csv file is given as `example.csv`. When necessary fields are filled, the website shows the survival prediction.  
 
 ## Contributors
 
